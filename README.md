@@ -1,6 +1,6 @@
 # Pokemon classification with Support Vector Machines
 
-This project is used as the **week 5** exercise in a Machine Learning course.
+This project is used as the **week 4** exercise in a Machine Learning course.
 
 Project *pokemon* demonstrates the use of a support vector machine for image recognition using pokemon images. It is set up such that one can retrain it to detect other things too, instead of pokemon.
 
